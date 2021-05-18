@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kandydaria
 - 👀 Interested in data analysys & vizualization!
 - 🌱 Currently learning Python & SQL & Statistics
-- 📫 You can always contact me kandybkodaria@gmail.com !
+- 📫 You can always contact me https://t.me/kandydaria !
 
 <!---
 kandydaria/kandydaria is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

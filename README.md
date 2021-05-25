@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kandydaria
-- 🤸🏽‍♀️ Interested in data analysys & vizualization!
+- 🤸🏽‍♀️ Interested in data analysis & vizualization!
 - 📚 Currently learning Python & SQL & Statistics
 - ✉️ You can always contact me in [Telegram](https://t.me/kandydaria) !
 
